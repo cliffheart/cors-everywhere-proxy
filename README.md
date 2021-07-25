@@ -2,4 +2,4 @@
 
 CORS everywhere proxy using Java Jersey API
 
-- [Jersey cors everywhere proxy](https://github.com/cliffheart/cors-everywhere-proxy)
+- [Jersey cors everywhere proxy](https://github.com/cliffheart/cors-everywhere-proxy/tree/master/jersey-cors-everywhere)
