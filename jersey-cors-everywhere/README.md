@@ -1,6 +1,6 @@
 # jersey-cors-everywhere
 
-Yêu cầu hệ thống:
+Requirement:
 - Java 8
 - Tomcat >= 7
 
